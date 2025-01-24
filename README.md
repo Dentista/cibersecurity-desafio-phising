@@ -9,6 +9,11 @@
 
 + Acesso root: sudo su
 + Iniciando o setoolkit : setoolkit
+    A - Opção 2 (Web Site Attack Vectors) ;
+    B - Opção 3 (Credential Harvester Attack Method);
+    C - Opção 2 (Site Cloner);
+    D - Apertar a tecla Enter;
+    E - Digitar o site a ser clonado (http://www.facebook.com) e apertar a tecla Enter.
 + Tipo de ataque: Social-Engineering Attacks
 + Vetor de ataque: Web Site Attack Vectors
 + Método de ataque: Credential Harvester Attack Method
